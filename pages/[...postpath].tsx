@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://trendtimes.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/g3vqesxmaz?key=3dc6a78df8b85d84de7f31b87498b8fa`
 				}`,
 			},
 		};
